@@ -1,4 +1,4 @@
-# typescript-course
+# TypeScript-course
 Basic resource for learning typescript
 
 ### linkedin / learning - Credits by Jesse Liberty
