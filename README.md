@@ -1,7 +1,7 @@
 # typescript-course
 Basic resource for learning typescript
 
-### https://www.linkedin.com/learning
+### linkedin / learning - Credits by Jesse Liberty
 https://www.linkedin.com/learning/typescript-for-c-sharp-programmers/get-acquainted-with-typescript
 
 ## auto tsconfig
